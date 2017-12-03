@@ -1,0 +1,44 @@
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Prerequisites
+*.def
+
+# Libraries
+*.lib
+*.la
+*.lo
+
+# Object Files
+*.o
+*.obj
+*.elf
+
+# Linker Output
+*.ilk
+*.map
+*.exp
+
+# Shared Objects
+*.so
+*.so.*
+*.dylib
+
+# Debug Files
+*.su
+*.idb
+*.pdb
+
+# CoD4X Build Files
+bin/CoD4X18-Linux-Server
+bin/sys_error.txt
+bin/serverstatus.xml
+bin/data/*
+bin/logs/*
+
+# Visual Studio Temp
+*.vscode
